@@ -1,0 +1,10 @@
+﻿## Interface: 30000
+## Title: ACUI_GuildCheck (1.40)
+## Notes: Shows changes in your guild since your last time online.
+## Author: Tunhadil
+## Dependencies:
+## OptionalDeps: 
+## SavedVariables: ES_GuildCheck_Data
+localization-enGB.lua
+localization-deDE.lua
+ES_GuildCheck.xml
